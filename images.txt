@@ -1,1 +1,1 @@
-jellyfin/jellyfin-ffmpeg
+cz/czkawka
