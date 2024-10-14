@@ -1,1 +1,1 @@
-cz/czkawka
+nyanmisaka/jellyfin:230901-amd64
